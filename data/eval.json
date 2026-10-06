@@ -1,0 +1,6 @@
+[
+ {"query":"How do we measure whether an answer is supported by evidence?","relevant_ids":["d2"]},
+ {"query":"Why use a reranker after retrieval?","relevant_ids":["d3"]},
+ {"query":"What should AI observability record?","relevant_ids":["d4"]},
+ {"query":"Which metrics evaluate RAG retrieval and answers?","relevant_ids":["d5"]}
+]

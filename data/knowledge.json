@@ -1,0 +1,8 @@
+[
+ {"doc_id":"d1","title":"RAG Retrieval","text":"Retrieval augmented generation retrieves external evidence before generation. Retrieval quality depends on chunking, query formulation, embeddings, lexical search and reranking."},
+ {"doc_id":"d2","title":"Faithfulness","text":"Faithfulness measures whether an answer is supported by the supplied evidence. Unsupported claims increase hallucination risk."},
+ {"doc_id":"d3","title":"Reranking","text":"A reranker reorders candidate documents using a more precise relevance model after initial retrieval. Hybrid retrieval can combine lexical and semantic signals."},
+ {"doc_id":"d4","title":"Observability","text":"AI observability records traces, latency, token usage, model calls, retrieval results, tool calls and errors so failures can be diagnosed."},
+ {"doc_id":"d5","title":"Evaluation","text":"Reliable LLM evaluation uses representative datasets and metrics such as context relevance, answer relevance, faithfulness, recall at k and mean reciprocal rank."},
+ {"doc_id":"d6","title":"Guardrails","text":"Guardrails can validate inputs and outputs for policy, safety, privacy or structured-format requirements before an application returns a result."}
+]
